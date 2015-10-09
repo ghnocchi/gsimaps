@@ -15,6 +15,20 @@
                     "cocotile": true,
                     "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
                     "html": ""
+                },
+                {
+                    "type": "Layer",
+                    "id": "std",
+                    "title": "会場案内図",
+                    "iconUrl": "",
+                    "url": "http://ghnocchi.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
+                    "subdomains": "",
+                    "attribution": "",
+                    "cocotile": true,
+                    "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
+                    "html": "<a href=\"https://github.com/ghnocchi/gsimaps/edit/gh-pages/layers_txt/mylayers.txt\">編集</a>",
+                    "maxZoom": 18,
+                    "maxNativeZoom": 2
                 }
             ]
         }
